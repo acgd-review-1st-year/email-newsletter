@@ -6,6 +6,19 @@ These messages are sent out to 1st & 2nd year students, once per month, over the
 
 ---
 
+## Preview the newsletters
+
+- [1st year, May, semantics](https://acgd-summer-reviews.github.io/email-newsletters/1-may-semantics.html)
+- [1st year, June, selectors & flow](https://acgd-summer-reviews.github.io/email-newsletters/1-jun-selectors-flow.html)
+- [1st year, July, images](https://acgd-summer-reviews.github.io/email-newsletters/1-jul-images.html)
+- [1st year, August, layouts](https://acgd-summer-reviews.github.io/email-newsletters/1-aug-layouts.html)
+- [2nd year, May, typography & grids](https://acgd-summer-reviews.github.io/email-newsletters/2-may-type-grids.html)
+- [2nd year, June, accessibility](https://acgd-summer-reviews.github.io/email-newsletters/2-jun-accessibility.html)
+- [2nd year, July, Javascript](https://acgd-summer-reviews.github.io/email-newsletters/2-jul-javascript.html)
+- [2nd year, August, effects](https://acgd-summer-reviews.github.io/email-newsletters/2-aug-effects.html)
+
+---
+
 ## License & copyright
 
 © Algonquin College Graphic Design — <http://algonquindesign.ca/>.<br>

@@ -1,0 +1,7 @@
+{
+  "name": "email-newsletters",
+  "private": true,
+  "devDependencies": {
+    "ink": "~1.0.5"
+  }
+}

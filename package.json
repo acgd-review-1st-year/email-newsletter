@@ -1,0 +1,13 @@
+{
+  "name": "email-newsletters",
+  "private": true,
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-cssnext": "^1.0.0",
+    "gulp-inline-css": "^2.0.0",
+    "gulp-rename": "^1.2.2"
+  }
+}

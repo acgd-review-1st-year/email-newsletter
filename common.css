@@ -69,6 +69,13 @@ hr {
 
 h1 {
   border-top: 4px solid var(--color-brand-dark);
+  display: block;
+  width: 100% !important;
+}
+
+.banner {
+  width: 100% !important;
+  height: auto !important;
 }
 
 h2 {

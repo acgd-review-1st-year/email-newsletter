@@ -3,7 +3,7 @@ var
   del = require('del'),
   autoprefixer = require('gulp-autoprefixer'),
   cssnext = require('gulp-cssnext'),
-  inlineCss = require( 'gulp-inline-css' ),
+  premailer = require('gulp-premailer'),
   rename = require('gulp-rename')
 ;
 
@@ -32,7 +32,7 @@ gulp.task('css', function () {
 
 gulp.task('inline-css', ['clean-dist', 'jekyll-build', 'css'], function() {
   return gulp.src(['_site/*.html'])
-    .pipe(inlineCss())
+    .pipe(premailer())
     .pipe(gulp.dest('_dist/'))
   ;
 });

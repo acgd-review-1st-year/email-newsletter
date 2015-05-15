@@ -8,19 +8,21 @@ These messages are sent out to 1st & 2nd year students, once per month, over the
 
 ## Preview the newsletters
 
+Check out each of the newsletters in the browser and see what resources they provide for students.
+
 **First year students**
 
-- [May, **semantics**](https://acgd-summer-reviews.github.io/email-newsletters/1-may-semantics.html)
-- [June, **selectors & flow**](https://acgd-summer-reviews.github.io/email-newsletters/1-jun-selectors-flow.html)
-- [July, **images**](https://acgd-summer-reviews.github.io/email-newsletters/1-jul-images.html)
-- [August, **layouts**](https://acgd-summer-reviews.github.io/email-newsletters/1-aug-layouts.html)
+- [May — **Semantics**](https://acgd-summer-reviews.github.io/email-newsletters/1-may-semantics.html)
+- [June — **Selectors & flow**](https://acgd-summer-reviews.github.io/email-newsletters/1-jun-selectors-flow.html)
+- [July — **Images**](https://acgd-summer-reviews.github.io/email-newsletters/1-jul-images.html)
+- [August — **Layouts**](https://acgd-summer-reviews.github.io/email-newsletters/1-aug-layouts.html)
 
 **Second year students**
 
-- [May, **typography & grids**](https://acgd-summer-reviews.github.io/email-newsletters/2-may-type-grids.html)
-- [June, **accessibility**](https://acgd-summer-reviews.github.io/email-newsletters/2-jun-accessibility.html)
-- [July, **Javascript**](https://acgd-summer-reviews.github.io/email-newsletters/2-jul-javascript.html)
-- [August, **effects**](https://acgd-summer-reviews.github.io/email-newsletters/2-aug-effects.html)
+- [May — **Typography & grids**](https://acgd-summer-reviews.github.io/email-newsletters/2-may-type-grids.html)
+- [June — **Accessibility**](https://acgd-summer-reviews.github.io/email-newsletters/2-jun-accessibility.html)
+- [July — **Javascript**](https://acgd-summer-reviews.github.io/email-newsletters/2-jul-javascript.html)
+- [August — **Effects**](https://acgd-summer-reviews.github.io/email-newsletters/2-aug-effects.html)
 
 ---
 

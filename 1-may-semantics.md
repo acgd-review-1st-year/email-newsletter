@@ -5,7 +5,7 @@ intro: All of the content on the web revolves around the semantics we present in
 reviews:
   html-semantics: HTML semantics
 all:
-  name: Marking up a website
+  name: Marking up a webpage
   url: marking-up-a-webpage
 test:
   name: Semantics soothsayer

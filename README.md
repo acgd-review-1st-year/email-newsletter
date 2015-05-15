@@ -1,8 +1,8 @@
 # Email newsletters
 
-The summer email newsletters for the 1st year Web Dev review.
+The summer email newsletters for the Web Dev reviews.
 
-These messages are sent out to students, once per month, over the summer holidays—encouraging students to remain engaged with the material when classes aren’t running.
+These messages are sent out to 1st & 2nd year students, once per month, over the summer holidays—encouraging students to remain engaged with the material when classes aren’t running.
 
 ---
 

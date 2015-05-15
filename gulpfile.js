@@ -9,28 +9,35 @@ var
 
 gulp.task('clean-dist', function (cb) {
   del([
-    'dist/**/*'
+    '_dist/**/*'
   ], cb);
 });
 
-gulp.task('css', ['clean-dist'], function () {
+gulp.task('jekyll-build', function (cb) {
+  require('child_process')
+    .spawn('jekyll', ['build'], {stdio: 'inherit'})
+    .on('close', cb)
+  ;
+});
+
+gulp.task('css', function () {
   return gulp.src('common.css')
     .pipe(cssnext({ compress: true }))
     .pipe(autoprefixer({ cascade: false, browsers: 'last 2 versions' }))
-    .pipe(gulp.dest('tmp'))
+    .pipe(gulp.dest('_tmp'))
     .pipe(rename({ suffix: '.min' }))
     .pipe(gulp.dest('./'))
   ;
 });
 
-gulp.task('inline-css', ['clean-dist', 'css'], function() {
-  return gulp.src(['*.html'])
+gulp.task('inline-css', ['clean-dist', 'jekyll-build', 'css'], function() {
+  return gulp.src(['_site/*.html'])
     .pipe(inlineCss())
-    .pipe(gulp.dest('dist/'))
+    .pipe(gulp.dest('_dist/'))
   ;
 });
 
-gulp.task('default', ['clean-dist', 'css', 'inline-css']);
+gulp.task('default', ['clean-dist', 'jekyll-build', 'css', 'inline-css']);
 
 gulp.task('watch', function() {
   gulp.watch('common.css', ['css']);

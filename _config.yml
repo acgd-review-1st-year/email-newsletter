@@ -1,0 +1,20 @@
+exclude:
+  - README.md
+  - LICENSE
+  - gulpfile.js
+  - package.json
+  - bower.json
+  - .editorconfig
+  - .gitignore
+  - node_modules
+  - common.css
+
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default

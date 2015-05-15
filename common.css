@@ -1,0 +1,125 @@
+:root {
+  --color-brand: #00deaf;
+  --color-brand-dark: #00675a;
+  --color-brand-light: #d1fff5;
+
+  --color-grey: #a8a6af;
+  --color-grey-dark: #63666a;
+  --color-grey-medium: #d9d8e3;
+  --color-grey-light: #efefef;
+
+  --color-link: #4484c2;
+
+  --color-code-light: #f8f6f5;
+  --color-code: #f5f2f0;
+  --color-code-dark: #eeebe9;
+  --color-code-darker: #e6e3e2;
+  --color-code-darkest: #dfdcda;
+}
+
+.pad-t-0,
+td.wrapper.pad-t-0 {
+  padding-top: 0;
+}
+
+.pad-b-0,
+table.columns td.pad-b-0 {
+  padding-bottom: 0;
+}
+
+.push-0 {
+  margin-bottom: 0;
+}
+
+a,
+a:visited,
+a:hover,
+h3 a,
+h3 a:visited,
+h3 a:hover {
+  color: var(--color-link) !important;
+}
+
+a:hover,
+h3 a:hover {
+  text-decoration: underline !important;
+}
+
+hr {
+  background-color: var(--color-grey-light);
+  color: var(--color-grey-light);
+  height: 3px;
+}
+
+.panel {
+  background-color: var(--color-code-light);
+  border-color: var(--color-code-dark);
+}
+
+.intro-wrap {
+  background-color: var(--color-brand-light);
+  border-color: var(--color-brand-light);
+}
+
+.intro {
+  margin: 0;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+h1 {
+  border-top: 4px solid var(--color-brand-dark);
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+.full-site {
+  font-size: 16px;
+}
+
+.full-site a:hover {
+  text-decoration: none !important;
+}
+
+.go,
+table[class="body"] img.go {
+  float: none;
+  display: inline-block;
+  height: 18px !important;
+  width: 18px !important;
+  vertical-align: text-bottom;
+}
+
+table.button td {
+  background-color: var(--color-brand);
+  border-color: transparent;
+}
+
+table.button td a,
+table.button td a:visited {
+  display: block;
+  color: var(--color-brand-dark) !important;
+}
+
+table.button:hover td {
+  background-color: var(--color-brand-dark) !important;
+}
+
+table.button:hover td a,
+table.button:hover td a:visited,
+table.button td a:hover {
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+table[class="body"] img.game {
+  width: 120px !important;
+  height: 120px !important;
+}

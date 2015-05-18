@@ -4,7 +4,11 @@ pre-content: HTML semantics reviews, quizzes, coding projects, and helpful tools
 banner: 1-semantics.png
 intro: All of the content on the web revolves around the semantics we present in our HTML. They’re important to help people and robots understand our content whether they’re using their eyeballs, a screen reader, or a search ranking algorithm.
 reviews:
+  github-pages: Hosting with GitHub Pages
+  naming-conventions: Naming conventions
   html-semantics: HTML semantics
+  html-indentation: HTML indentation
+  validators: Validators
 all:
   name: Marking up a webpage
   url: marking-up-a-webpage
@@ -19,4 +23,6 @@ code:
 tools:
   html-semantics-cheat-sheet: HTML semantics cheat sheet
   html-semantics-check-list: HTML semantics check list
+  keyboard-shortcut-cheat-sheet: Keyboard shortcut cheat sheet
+  naming-conventions-cheat-sheet: Naming conventions cheat sheet
 ---

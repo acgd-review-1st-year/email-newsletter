@@ -23,7 +23,7 @@
 
                       <table class="seven columns">
                         <tr>
-                          <td class="pad-b-0 text-pad">
+                          <td class="pad-b-0 text-pad pre-content">
 
                             {{page.pre-content}}
 
@@ -38,9 +38,9 @@
 
                       <table class="five columns">
                         <tr>
-                          <td class="pad-b-0 text-pad">
+                          <td class="pad-b-0 text-pad pre-content">
 
-                            Email not displaying correctly?<br /><a href="*|ARCHIVE|*" target="_blank">View it in your browser</a>.
+                            Email not displaying correctly?<br /><a href="{{page.in-browser}}" target="_blank">View it in your browser</a>.
 
                           </td>
                           <td class="expander"></td>
@@ -101,10 +101,10 @@
 
                             <br />
                             <h2>Review tutorials &amp; videos</h2>
-                            <p>Spark some memory patterns by re-watching the videos or reading the tutorials.</p>
+                            <p><i>Spark some memory patterns by re-watching the videos or reading the tutorials.</i></p>
                             <ol class="push-0">
                               {% for item in page.reviews %}
-                                <li><a href="http://learn-the-web.algonquindesign.ca/topics/{{item[0]}}/">{{item[1]}}</a></li>
+                                <li><a href="http://learn-the-web.algonquindesign.ca/topics/{{item[0]}}/" target="_blank">{{item[1]}}</a></li>
                               {% endfor %}
                             </ol>
 
@@ -125,7 +125,7 @@
                         <tr>
                           <td class="panel">
 
-                            <span class="full-site"><a href="http://learn-the-web.algonquindesign.ca/topics/{{page.all.url}}/">See it all together: <b>{{page.all.name}}</b> <img class="go" src="img/go.png" width="18" height="18" alt="" /></a></span>
+                            <span class="full-site"><a href="http://learn-the-web.algonquindesign.ca/topics/{{page.all.url}}/" target="_blank">See it all together: <b>{{page.all.name}}</b> <img class="go" src="img/go.png" width="18" height="18" alt="" /></a></span>
                             <br />
 
                           </td>
@@ -149,7 +149,7 @@
                             <hr />
                             <br />
                             <h2>Test your knowledge</h2>
-                            <p>Stretch that grey-matter and fire those synapses with a quick game or quiz.</p>
+                            <p><i>Stretch that grey-matter and fire those synapses with a quick game or quiz.</i></p>
 
                           </td>
                           <td class="expander"></td>
@@ -169,7 +169,7 @@
                           <td class="center">
 
                             <center>
-                              <a href="{{page.test.url}}">
+                              <a href="{{page.test.url}}" target="_blank">
                                 <img class="center game" src="img/victory.png" width="120" height="120" alt="">
                               </a>
                             </center>
@@ -187,12 +187,12 @@
                         <tr>
                           <td class="">
 
-                            <h3><a href="{{page.test.url}}">{{page.test.name}}</a></h3>
+                            <h3><a href="{{page.test.url}}" target="_blank">{{page.test.name}}</a></h3>
                             <p>{{page.test.desc}}</p>
                             <table class="button">
                               <tr>
                                 <td>
-                                  <a href="{{page.test.url}}">Play {{page.test.name}}</a>
+                                  <a href="{{page.test.url}}" target="_blank">Play {{page.test.name}}</a>
                                 </td>
                               </tr>
                             </table>
@@ -214,11 +214,10 @@
                         <tr>
                           <td class="">
 
-                            <br />
                             <hr />
                             <br />
                             <h2>Write some code</h2>
-                            <p>Start flexing those fingers and pounding some keys!</p>
+                            <p><i>Start flexing those fingers and pounding some keys!</i></p>
 
                           </td>
                           <td class="expander"></td>
@@ -238,7 +237,7 @@
                           <td class="center">
 
                             <center>
-                              <a href="https://github.com/acgd-summer-reviews/{{page.code.url}}">
+                              <a href="https://github.com/acgd-summer-reviews/{{page.code.url}}" target="_blank">
                                 <img class="center game" src="img/code.png" width="120" height="120" alt="">
                               </a>
                             </center>
@@ -256,12 +255,12 @@
                         <tr>
                           <td class="">
 
-                            <h3><a href="https://github.com/acgd-summer-reviews/{{page.code.url}}">{{page.code.name}}</a></h3>
+                            <h3><a href="https://github.com/acgd-summer-reviews/{{page.code.url}}" target="_blank">{{page.code.name}}</a></h3>
                             <p>{{page.code.desc}}</p>
                             <table class="button">
                               <tr>
                                 <td>
-                                  <a href="https://github.com/acgd-summer-reviews/{{page.code.url}}">Read the requirements</a>
+                                  <a href="https://github.com/acgd-summer-reviews/{{page.code.url}}" target="_blank">Read the requirements</a>
                                 </td>
                               </tr>
                             </table>
@@ -283,17 +282,15 @@
                         <tr>
                           <td class="">
 
-                            <br />
                             <hr />
                             <br />
                             <h2>Tools to help</h2>
-                            <p>Infuse your brain with these tools, checklists &amp; cheat sheets.</p>
+                            <p><i>Infuse your brain with these tools, checklists &amp; cheat sheets.</i></p>
                             <ul>
                               {% for item in page.tools %}
-                                <li><a href="http://learn-the-web.algonquindesign.ca/topics/{{item[0]}}/">{{item[1]}}</a></li>
+                                <li><a href="http://learn-the-web.algonquindesign.ca/topics/{{item[0]}}/" target="_blank">{{item[1]}}</a></li>
                               {% endfor %}
                             </ul>
-                            <br />
 
                           </td>
                           <td class="expander"></td>
@@ -308,11 +305,56 @@
                   <tr>
                     <td class="wrapper last pad-t-0">
 
+                      <hr>
+
                       <table class="twelve columns">
                         <tr>
                           <td class="panel intro-wrap">
 
-                            <p class="push-0">I’m happy to answer any questions you have on GitHub—just tag me in an issue with <a href="https://github.com/thomasjbradley/">@thomasjbradley</a>. <em>I’ll definitely respond, but since it’s the summer it may be a little slower than usual.</em></p>
+                            <br />
+                            <p class="push-0 intro">I’m happy to answer any questions you have on GitHub—just tag me in an issue with <a href="https://github.com/thomasjbradley/" target="_blank">@thomasjbradley</a>. <em>I’ll definitely respond, but since it’s the summer it may be a little slower than usual.</em></p>
+                            <br />
+
+                          </td>
+                          <td class="expander"></td>
+                        </tr>
+                      </table>
+
+                      <hr>
+
+                    </td>
+                  </tr>
+                </table>
+
+                <table class="row">
+                  <tr>
+                    <td class="wrapper last pad-t-0">
+
+                      <table class="twelve columns">
+                        <tr>
+                          <td class="">
+
+                            <br />
+                            <p class="footer">
+                              © Algonquin College Graphic Design — <a href="http://algonquindesign.ca" target="_blank">http://algonquindesign.ca/</a>.<br />
+                              All code licensed under the <a href="https://github.com/acgd-summer-reviews/email-newsletters/blob/gh-pages/LICENSE" target="_blank">MIT license</a>.<br />
+                              All text, imagery, design, tutorials &amp; videos licensed under the <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA License</a>.<br />
+                              Unless otherwise noted.
+                            </p>
+
+                            <p class="push-b-0 footer">
+                              Thomas J Bradley<br />
+                              Algonquin College<br />
+                              1385 Woodroffe Avenue<br />
+                              Ottawa, ON, K2G 1V8
+                            </p>
+
+                            <hr />
+
+                            <p class="push-b-0 footer">
+                              <i>*|LIST:DESCRIPTION|*</i><br />
+                              <a class="footer" href="*|UNSUB|*" target="_blank"><strong>Unsubscribe from this newsletter.</strong></a>
+                            </p>
 
                           </td>
                           <td class="expander"></td>
@@ -322,7 +364,6 @@
                     </td>
                   </tr>
                 </table>
-
 
               </td>
             </tr>

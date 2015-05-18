@@ -67,6 +67,12 @@ hr {
   line-height: 20px;
 }
 
+.pre-content {
+  color: var(--color-grey);
+  font-size: 12px;
+  line-height: 15px;
+}
+
 h1 {
   border-top: 4px solid var(--color-brand-dark);
   display: block;
@@ -129,4 +135,10 @@ table.button td a:hover {
 table[class="body"] img.game {
   width: 120px !important;
   height: 120px !important;
+}
+
+.footer {
+  color: var(--color-grey);
+  font-size: 12px;
+  line-height: 15px;
 }

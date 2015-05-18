@@ -1,7 +1,7 @@
 ---
 title: Semantics
 pre-content: HTML semantics reviews, quizzes, coding projects, and helpful tools.
-in-browser: https://acgd-summer-reviews.github.io/email-newsletters/1-may-semantics.html
+in-browser: 1-may-semantics.html
 banner: 1-semantics.png
 intro: All of the content on the web revolves around the semantics we present in our HTML. They’re important to help people and robots understand our content whether they’re using their eyeballs, a screen reader, or a search ranking algorithm.
 reviews:

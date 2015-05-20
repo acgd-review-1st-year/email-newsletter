@@ -1,5 +1,5 @@
 ---
-title: Semantics
+title: HTML semantics
 pre-content: HTML semantics reviews, quizzes, coding projects, and helpful tools.
 in-browser: 1-may-semantics.html
 banner: https://gallery.mailchimp.com/0b968f9b1f0f6e934c7ebbef6/images/374d2139-704c-46e8-992e-87ddbd4917f9.png

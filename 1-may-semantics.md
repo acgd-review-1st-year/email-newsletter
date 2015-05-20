@@ -17,8 +17,8 @@ test:
   url: http://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/
   desc: Use your powers of prognostication to solve these semantics questions.
 code:
-  name: Assignment 1
-  url: assignment-1
+  name: Product page semantics
+  url: product-page-semantics
   desc: Apply your semantics skills to code this thing up.
 tools:
   html-semantics-cheat-sheet: HTML semantics cheat sheet

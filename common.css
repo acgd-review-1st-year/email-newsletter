@@ -142,3 +142,7 @@ table[class="body"] img.game {
   font-size: 12px;
   line-height: 15px;
 }
+
+.rewards {
+  text-align: right;
+}

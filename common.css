@@ -97,10 +97,6 @@ h3 {
   font-size: 16px;
 }
 
-.full-site a:hover {
-  text-decoration: none !important;
-}
-
 .go,
 table[class="body"] img.go {
   float: none;
@@ -122,14 +118,14 @@ table.button td a:visited {
 }
 
 table.button:hover td {
-  background-color: var(--color-brand-dark) !important;
+  background-color: var(--color-brand) !important;
 }
 
 table.button:hover td a,
 table.button:hover td a:visited,
 table.button td a:hover {
-  color: #fff !important;
-  text-decoration: none !important;
+  color: var(--color-brand-dark) !important;
+  text-decoration: underline !important;
 }
 
 table[class="body"] img.game {

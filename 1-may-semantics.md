@@ -19,8 +19,14 @@ code:
   url: product-page-semantics
   desc: Apply your semantics skills to code this thing up.
 tools:
-  html-semantics-cheat-sheet: HTML semantics cheat sheet
-  html-semantics-checklist: HTML semantics check list
-  keyboard-shortcut-cheat-sheet: Keyboard shortcut cheat sheet
-  naming-paths-cheat-sheet: Naming & paths cheat sheet
+  - title: HTML semantics cheat sheet
+    internal: html-semantics-cheat-sheet
+    highlight: true
+  - title: HTML semantics check list
+    internal: html-semantics-checklist
+    highlight: true
+  - title: Keyboard shortcut cheat sheet
+    internal: keyboard-shortcut-cheat-sheet
+  - title: Naming & paths cheat sheet
+    internal: naming-paths-cheat-sheet
 ---

@@ -289,7 +289,15 @@
                             <p><i>Infuse your brain with these tools, checklists &amp; cheat sheets.</i></p>
                             <ul>
                               {% for item in page.tools %}
-                                <li><a href="http://learn-the-web.algonquindesign.ca/topics/{{item[0]}}/" target="_blank">{{item[1]}}</a></li>
+                                <li>
+                                  {% if item.highlight %}<b>{% endif %}
+                                  {% if item.internal %}
+                                    <a href="http://learn-the-web.algonquindesign.ca/topics/{{item.internal}}/" target="_blank">{{item.title}}</a>
+                                  {% else %}
+                                    <a href="{{item.external}}" target="_blank">{{item.title}} »</a>
+                                  {% endif %}
+                                  {% if item.highlight %}</b>{% endif %}
+                                </li>
                               {% endfor %}
                             </ul>
 

@@ -19,7 +19,7 @@ Check out each of the newsletters in the browser and see what resources they pro
 
 **Second year students**
 
-- [May — **Typography & grids**](https://acgd-summer-reviews.github.io/email-newsletters/2-may-type-grids.html)
+- [May — **Modular design**](https://acgd-summer-reviews.github.io/email-newsletters/2-may-modular-design.html)
 - [June — **Accessibility**](https://acgd-summer-reviews.github.io/email-newsletters/2-jun-accessibility.html)
 - [July — **Javascript**](https://acgd-summer-reviews.github.io/email-newsletters/2-jul-javascript.html)
 - [August — **Effects**](https://acgd-summer-reviews.github.io/email-newsletters/2-aug-effects.html)

@@ -10,7 +10,7 @@ reviews:
 test:
   name: Semantics soothsayer
   url: http://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/
-  desc: Use your powers of prognostication to solve these semantics questions.
+  desc: Use your powers of prognostication to find solutions.
 code:
   name: Product page semantics
   url: product-page-semantics

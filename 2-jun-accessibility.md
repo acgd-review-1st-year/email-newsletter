@@ -10,7 +10,7 @@ reviews:
   browser-testing: Browser testing
   forms: Forms
 test:
-  name: VoiceOver voyageur
+  name: VoiceOver Voyageur
   url: http://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/
   desc: Close your eyes and visualize to complete these tasks.
 code:

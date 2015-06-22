@@ -13,7 +13,7 @@ reviews:
   flow-display: Flow & display
   typography-only-layout: Typography-only layout
 test:
-  name: Selector surgeon
+  name: Selector Surgeon
   url: http://activities.learn-the-web.algonquindesign.ca/selector-surgeon/
   desc: Precisely resolve these selectors for extreme accuracy.
 code:

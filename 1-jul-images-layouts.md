@@ -16,7 +16,7 @@ test:
   url: http://activities.learn-the-web.algonquindesign.ca/path-paladin/
   desc:
 code:
-  name:
+  name: Newspaper homepage
   url:
   desc:
 tools:

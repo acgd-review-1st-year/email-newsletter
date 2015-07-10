@@ -14,8 +14,8 @@ Check out each of the newsletters in the browser and see what resources they pro
 
 - [May — **Semantics**](https://acgd-summer-reviews.github.io/email-newsletters/1-may-semantics.html)
 - [June — **Selectors & flow**](https://acgd-summer-reviews.github.io/email-newsletters/1-jun-selectors-flow.html)
-- [July — **Images**](https://acgd-summer-reviews.github.io/email-newsletters/1-jul-images.html)
-- [August — **Layouts**](https://acgd-summer-reviews.github.io/email-newsletters/1-aug-layouts.html)
+- [July — **Images & layouts**](https://acgd-summer-reviews.github.io/email-newsletters/1-jul-images-layouts.html)
+- [August — **Performance**](https://acgd-summer-reviews.github.io/email-newsletters/1-aug-performance.html)
 
 **Second year students**
 

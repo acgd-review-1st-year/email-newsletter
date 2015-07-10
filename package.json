@@ -11,7 +11,7 @@
     "gulp-rename": "^1.2.2"
   },
   "scripts": {
-    "gulp": "gulp",
+    "build": "gulp",
     "gulp-watch": "gulp watch",
     "jekyll-watch": "jekyll serve"
   }

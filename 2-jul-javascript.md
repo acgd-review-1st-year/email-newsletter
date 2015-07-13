@@ -14,9 +14,9 @@ test:
   url: http://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/
   desc:
 code:
-  name: Javascript syntax exercises
-  url:
-  desc:
+  name: Javascript syntax challenges
+  url: javascript-syntax-challenges
+  desc: Flex your Javascript muscles to create these simple applications.
 tools:
   - title: Javascript cheat sheet
     internal: http://learn-the-web.algonquindesign.ca/topics/javascript-cheat-sheet/

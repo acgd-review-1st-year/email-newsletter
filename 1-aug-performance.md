@@ -1,6 +1,7 @@
 ---
 title: Performant websites
 intro: Making websites load quickly is one of the most critical design constraints. Performance should be considered at every stage of website building.
+
 reviews:
   before-after: Before & after pseudo elements
   image-formats: Speed of images
@@ -14,10 +15,12 @@ test:
   name: URL explorer
   url: http://activities.learn-the-web.algonquindesign.ca/url-explorer/
   desc:
+
 code:
   name: CSS Zen Garden
   url:
   desc:
+
 tools:
   - title: Performance checklist
     internal: performance-checklist

@@ -15,7 +15,7 @@ reviews:
 test:
   name: Path paladin
   url: http://activities.learn-the-web.algonquindesign.ca/path-paladin/
-  desc:
+  desc: Prepare a proper path to pick a prickly particular.
 
 code:
   name: Newspaper homepage

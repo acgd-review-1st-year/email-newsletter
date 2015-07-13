@@ -12,11 +12,11 @@ reviews:
 test:
   name: Javascript journeyer
   url: http://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/
-  desc:
+  desc: Take a stepped jaunt through a coding junket.
 code:
   name: Javascript syntax challenges
   url: javascript-syntax-challenges
-  desc: Flex your Javascript muscles to create these simple applications.
+  desc: Flex your muscles to code these applications.
 tools:
   - title: Javascript cheat sheet
     internal: http://learn-the-web.algonquindesign.ca/topics/javascript-cheat-sheet/

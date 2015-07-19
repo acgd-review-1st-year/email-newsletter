@@ -18,9 +18,9 @@ test:
   desc: Prepare a proper path to pick a prickly particular.
 
 code:
-  name: Newspaper homepage
-  url:
-  desc:
+  name: Bookenders website
+  url: bookenders-website
+  desc: Export all the assets. Layout all the pages.
 
 tools:
   - title: Images cheat sheet

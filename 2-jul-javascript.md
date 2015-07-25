@@ -22,8 +22,8 @@ code:
 
 tools:
   - title: Javascript cheat sheet
-    internal: http://learn-the-web.algonquindesign.ca/topics/javascript-cheat-sheet/
+    internal: javascript-cheat-sheet
     highlight: true
   - title: Javascript checklist
-    internal: http://learn-the-web.algonquindesign.ca/topics/javascript-checklist/
+    internal: javascript-checklist
 ---

@@ -13,12 +13,12 @@ reviews:
 test:
   name: Character classifier
   url: http://activities.learn-the-web.algonquindesign.ca/character-classifier/
-  desc:
+  desc: No Latin involved, just lots of classification.
 
 code:
   name: Javascript application
   url:
-  desc:
+  desc: Mobile app prototype? Login screen, bottom, tabs, graphs?
 
 tools:
   - title: Launch checklist, Web Dev 3
@@ -28,4 +28,6 @@ tools:
     internal: browser-testing-checklist
   - title: Performance checklist
     internal: performance-checklist
+
+see-you-message: true
 ---

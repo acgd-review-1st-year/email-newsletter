@@ -29,4 +29,6 @@ tools:
     internal: launch-checklist-web-dev-1
   - title: Browser testing checklist
     internal: browser-testing-checklist
+
+see-you-message: true
 ---

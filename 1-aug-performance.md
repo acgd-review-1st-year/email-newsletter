@@ -18,8 +18,8 @@ test:
 
 code:
   name: CSS Zen Garden
-  url:
-  desc:
+  url: https://github.com/acgd-summer-reviews/css-zen-garden
+  desc: Show off your amazing CSS skills to the world.
 
 tools:
   - title: Performance checklist

@@ -10,7 +10,7 @@ reviews:
   marking-up-a-webpage: Marking up a webpage
 
 test:
-  name: Semantics soothsayer
+  name: Semantics Soothsayer
   url: http://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/
   desc: Use your powers of prognostication to find solutions.
 

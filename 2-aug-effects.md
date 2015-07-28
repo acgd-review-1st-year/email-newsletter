@@ -11,14 +11,14 @@ reviews:
   responsive-animated-dashboard: Responsive animated dashboard
 
 test:
-  name: Character classifier
+  name: Character Classifier
   url: http://activities.learn-the-web.algonquindesign.ca/character-classifier/
   desc: No Latin involved, just lots of classification.
 
 code:
-  name: Javascript application
-  url:
-  desc: Mobile app prototype? Login screen, bottom, tabs, graphs?
+  name: File Cloud demo
+  url: https://github.com/acgd-summer-reviews/file-cloud-demo
+  desc: Create an application demo using web technologies.
 
 tools:
   - title: Launch checklist, Web Dev 3

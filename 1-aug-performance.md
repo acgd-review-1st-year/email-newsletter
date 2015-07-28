@@ -1,5 +1,5 @@
 ---
-title: Performant websites
+title: Performance
 intro: Making websites load quickly is one of the most critical design constraints. Performance should be considered at every stage of website building.
 
 reviews:
@@ -12,9 +12,9 @@ reviews:
   from-wireframe-to-website: From wireframe to website
 
 test:
-  name: URL explorer
+  name: URL Explorer
   url: http://activities.learn-the-web.algonquindesign.ca/url-explorer/
-  desc:
+  desc: URLs power the web—unleash the navigation power.
 
 code:
   name: CSS Zen Garden

@@ -11,7 +11,7 @@ reviews:
   javascript-accessibility: Javascript & accessibility
 
 test:
-  name: Javascript journeyer
+  name: Javascript Journeyer
   url: http://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/
   desc: Take a stepped jaunt through a coding junket.
 

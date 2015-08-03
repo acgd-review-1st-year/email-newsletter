@@ -4,11 +4,13 @@ intro: Adding effects & animations to websites is a great way to enhance the use
 
 reviews:
   javascript-effects: Javascript effects
+  responsive-animated-dashboard: Responsive animated dashboard
   browser-developer-tools: Browser developer tools
   validators: Validators
   browser-testing: Browser testing
+  accessibility: Accessibility
+  javascript-accessibility: Javascript accessibility
   performance: Performance
-  responsive-animated-dashboard: Responsive animated dashboard
 
 test:
   name: Character Classifier
@@ -28,6 +30,8 @@ tools:
     internal: browser-testing-checklist
   - title: Performance checklist
     internal: performance-checklist
+  - title: Accessibility checklist
+    internal: accessibility-checklist
 
 see-you-message: true
 ---

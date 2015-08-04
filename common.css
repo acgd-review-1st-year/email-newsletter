@@ -17,6 +17,12 @@
   --color-code-darkest: #dfdcda;
 }
 
+html,
+body,
+.body {
+  background-color: #fff;
+}
+
 .pad-t-0,
 td.wrapper.pad-t-0 {
   padding-top: 0;

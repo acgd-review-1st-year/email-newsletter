@@ -19,7 +19,7 @@ test:
 
 code:
   name: File Cloud demo
-  url: https://github.com/acgd-summer-reviews/file-cloud-demo
+  url: file-cloud-demo
   desc: Create an application demo using web technologies.
 
 tools:

@@ -30,4 +30,8 @@ tools:
     internal: keyboard-shortcut-cheat-sheet
   - title: Naming & paths cheat sheet
     internal: naming-paths-cheat-sheet
+
+joke:
+  question: Why did the web developer leave the restaurant?
+  answer: Because of the table layout.
 ---

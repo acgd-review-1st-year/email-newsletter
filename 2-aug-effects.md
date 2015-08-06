@@ -33,5 +33,9 @@ tools:
   - title: Accessibility checklist
     internal: accessibility-checklist
 
+joke:
+  question: How do you comfort a Javascript bug?
+  answer: You console it.
+
 see-you-message: true
 ---

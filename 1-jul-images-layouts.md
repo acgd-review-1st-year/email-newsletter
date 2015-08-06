@@ -29,4 +29,8 @@ tools:
   - title: CSS layout cheat sheet
     internal: css-layout-cheat-sheet
     highlight: true
+
+joke:
+  question: Why did the web designer drown?
+  answer: She didn’t know if she should float:left or float:right.
 ---

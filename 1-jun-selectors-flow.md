@@ -32,4 +32,8 @@ tools:
   - title: Browser testing checklist
     internal: browser-testing-checklist
     highlight: true
+
+joke:
+  question: Why did the developer stay home from work?
+  answer: She had a code!
 ---

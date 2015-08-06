@@ -32,3 +32,13 @@ Check out each of the newsletters in the browser and see what resources they pro
 All *code* licensed under the [MIT license](LICENSE).<br>
 All *text, imagery, design, tutorials & videos* licensed under the [CC BY-NC-SA License](http://creativecommons.org/licenses/by-nc-sa/4.0/).<br>
 Unless otherwise noted.
+
+### Joke sources
+
+Jokes at the bottom of the emails copyright the below people:
+
+- <https://github.com/jerstew/webdev-jokes>
+- <http://www.firecreekweb.com/extra/web-developer-jokes>
+- <http://elijahmanor.com/front-end-web-dev-jokes/>
+- <http://digitalsynopsis.com/design/web-designer-developer-jokes-humour-funny/>
+- <http://www.demilked.com/css-puns-web-design-saijo-george/>

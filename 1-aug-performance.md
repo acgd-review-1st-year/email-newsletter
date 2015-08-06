@@ -31,4 +31,8 @@ tools:
     internal: browser-testing-checklist
 
 see-you-message: true
+
+joke:
+  question: Why does no one like jokes about descriptions, keywords, or character encodings?
+  answer: They’re too “meta”.
 ---

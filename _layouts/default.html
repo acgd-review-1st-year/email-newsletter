@@ -298,9 +298,33 @@
                       <table class="twelve columns">
                         <tr>
                           <td class="panel intro-wrap">
+                            <br>
+                            <p class="push-0 intro"><b>{{page.joke.question}}</b></p>
+                            {% if page.joke.answer %}
+                            <p class="push-0 intro">{{page.joke.answer}}</p>
+                            {% endif %}
+                            <br>
+                          </td>
+                          <td class="expander"></td>
+                        </tr>
+                      </table>
+
+                    </td>
+                  </tr>
+                </table>
+
+                <table class="row">
+                  <tr>
+                    <td class="wrapper last pad-t-0">
+
+                      <hr>
+
+                      <table class="twelve columns">
+                        <tr>
+                          <td class="panel">
 
                             <br />
-                            <p class="push-0 intro">I’m happy to answer any questions you have on GitHub—just tag me in an issue with <a href="https://github.com/thomasjbradley/" target="_blank">@thomasjbradley</a>. <em>I’ll definitely respond, but since it’s the summer it may be a little slower than usual.</em></p>
+                            <p class="push-0">I’m happy to answer any questions you have on GitHub—just tag me in an issue with <a href="https://github.com/thomasjbradley/" target="_blank">@thomasjbradley</a>. <em>I’ll definitely respond, but since it’s the summer it may be a little slower than usual.</em></p>
                             <br />
 
                             {% if page.see-you-message %}

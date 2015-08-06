@@ -26,4 +26,8 @@ tools:
     highlight: true
   - title: Javascript checklist
     internal: javascript-checklist
+
+joke:
+  question: Why was the Javascript reality show cancelled after only one episode?
+  answer: People thought it seemed scripted.
 ---

@@ -33,4 +33,8 @@ tools:
   - title: Typografier cheat sheet
     internal: typografier-cheat-sheet
     highlight: true
+
+joke:
+  question: How did the scrawny web developer put on some muscle?
+  answer: She started using flexbox.
 ---

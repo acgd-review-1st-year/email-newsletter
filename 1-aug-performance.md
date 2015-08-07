@@ -33,6 +33,6 @@ tools:
 see-you-message: true
 
 joke:
-  question: Why does no one like jokes about descriptions, keywords, or character encodings?
+  question: Why don’t people like jokes about descriptions, keywords, or character encodings?
   answer: They’re too “meta”.
 ---

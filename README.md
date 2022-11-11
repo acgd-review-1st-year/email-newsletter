@@ -12,23 +12,23 @@ Check out each of the newsletters in the browser and see what resources they pro
 
 **First year students**
 
-- [May — **Semantics**](https://acgd-summer-reviews.github.io/email-newsletters/1-may-semantics.html)
-- [June — **Selectors & flow**](https://acgd-summer-reviews.github.io/email-newsletters/1-jun-selectors-flow.html)
-- [July — **Images & layouts**](https://acgd-summer-reviews.github.io/email-newsletters/1-jul-images-layouts.html)
-- [August — **Performance**](https://acgd-summer-reviews.github.io/email-newsletters/1-aug-performance.html)
+- [May — **Semantics**](https://ltw-summer-reviews.github.io/email-newsletters/1-may-semantics.html)
+- [June — **Selectors & flow**](https://ltw-summer-reviews.github.io/email-newsletters/1-jun-selectors-flow.html)
+- [July — **Images & layouts**](https://ltw-summer-reviews.github.io/email-newsletters/1-jul-images-layouts.html)
+- [August — **Performance**](https://ltw-summer-reviews.github.io/email-newsletters/1-aug-performance.html)
 
 **Second year students**
 
-- [May — **Modular design**](https://acgd-summer-reviews.github.io/email-newsletters/2-may-modular-design.html)
-- [June — **Accessibility**](https://acgd-summer-reviews.github.io/email-newsletters/2-jun-accessibility.html)
-- [July — **Javascript**](https://acgd-summer-reviews.github.io/email-newsletters/2-jul-javascript.html)
-- [August — **Effects**](https://acgd-summer-reviews.github.io/email-newsletters/2-aug-effects.html)
+- [May — **Modular design**](https://ltw-summer-reviews.github.io/email-newsletters/2-may-modular-design.html)
+- [June — **Accessibility**](https://ltw-summer-reviews.github.io/email-newsletters/2-jun-accessibility.html)
+- [July — **Javascript**](https://ltw-summer-reviews.github.io/email-newsletters/2-jul-javascript.html)
+- [August — **Effects**](https://ltw-summer-reviews.github.io/email-newsletters/2-aug-effects.html)
 
 ---
 
 ## License & copyright
 
-© Algonquin College Graphic Design — <http://algonquindesign.ca/>.<br>
+© Thomas J Bradley — <https://learntheweb.courses/>.<br>
 All *code* licensed under the [MIT license](LICENSE).<br>
 All *text, imagery, design, tutorials & videos* licensed under the [CC BY-NC-SA License](http://creativecommons.org/licenses/by-nc-sa/4.0/).<br>
 Unless otherwise noted.
